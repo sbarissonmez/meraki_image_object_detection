@@ -1,2 +1,2 @@
-# meraki_image_object_detection
+# Meraki Real-Time Object Detection
  
