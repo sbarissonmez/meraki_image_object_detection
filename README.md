@@ -16,10 +16,10 @@ This app can image object detection via Meraki Camera snapshot API in browser. U
 ### How to Use
 
 #### Config
->1. Replace `MERAKI_API_KEY` in the [app.py](appy.py) to your Meraki API Key
->2. Replace `network_id` in [static/sketch.js](static/sketch.js) and [app.py](app.py) to camera network id
->3. Replace `camera_serial` in the [static/sketch.js](static/sketch.js) to the camera serial number
+1. Replace `MERAKI_API_KEY` in the [app.py](appy.py) to your Meraki API Key
+2. Replace `network_id` in [static/sketch.js](static/sketch.js) and [app.py](app.py) to camera network id
+3. Replace `camera_serial` in the [static/sketch.js](static/sketch.js) to the camera serial number
 
 #### Run
->1. Execute `python3 app.py` at the root folder
->2. Open `http://0.0.0.0:8088/` with the Chrome browser
+1. Execute `python3 app.py` at the root folder
+2. Open `http://0.0.0.0:8088/` with the Chrome browser
